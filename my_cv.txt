@@ -1,0 +1,174 @@
+
+<html>
+<head>
+   <title>My curriculum Vitae</title>
+   <link href="css/my_curriculum_vitae.css" type="text/css" rel="stylesheet" />
+   <style type="text/css">
+		body {
+			font-family: arial;
+			<!--background-color: rgb(185,179,175);-->
+		}
+		h1 {
+         color: rgb(0,0,255); 
+		}
+		h2 {
+         color: rgb(0,0,255); 
+		}
+		
+</style>
+
+   </style>
+</head>
+
+<body>
+   <h1 align="center">Paraskeuh(Evi) Panayiotara	
+   </h1><br/ >
+   
+   <img src="cv.jpg"><br/ ><br/ >
+   <h2><center> <u> Personal Information</u></center></h2>
+ 
+   
+   <strong>Name/Surname:</strong> Paraskeuh Panayiotara <br/ ><br/ >
+
+   <strong>Date of birth:</strong> 21/01/1993 <br/ ><br/ >
+
+   <strong>Current Address:</strong> Gklabanh 122, Volos, 38222 <br/ ><br/ >
+
+   <strong>Phone:</strong> 6974548832 <br/ ><br/ >
+
+   <strong>Email:</strong>  <a href="mailto:parpanag@inf.uth.gr" target="_blank">parpanag@inf.uth.gr</a>/
+   <a href="mailto:evi_panayiotara@hotmail.co.uk" target="_blank">evi_panayiotara@hotmail.co.uk</a><br/ ><br/ >
+   
+   <strong>Marital Status:</strong> Single <br/ ><br/ >
+   
+     <hr/>
+
+
+   <h2><center><u>Objective,Personal Summary</u></center></h2><br/ >
+   <p>Looking for a job as a web and application developer.
+			I am a self-motivated person with excellent organisational
+	 skills<BR >, highly efficient and with a good eye for detail. Able to play a key role in analysing problems and come up 
+	with creative solutions.<BR >A quick learner who can absorb new ideas
+	and can communicate clearly and effectively.
+   </p>
+     <hr/>
+   <h2><center><u>Academic Qualifications</u></center></h2><br/ >
+   
+   <strong>College</strong>,<br / ><em> September 2011-today</em><br/ ><br/ >
+   <ul>
+     <li>Undergraduate at University of Thessaly, Volos,  <em><strong>Department of Electrical & Computer Engineering</strong></em></li>
+     <a href="http://www.inf.uth.gr/" target="_blank">www.inf.uth.gr</a>
+   </ul>  
+   
+   
+   <strong> High School</strong>, <br/ ><em>September 2009-June 2011</em><br/ ><br/ >
+   <ul>
+     <li>2<sup>th</sup> Lyceum, Kavala, General Degree: 19.0/20("excellent")</li><br/ >
+   </ul>
+  
+     <hr/>
+
+   <h2><center><u>Areas of Expertise</u></center></h2><br/ >
+       <ul>
+         <li><strong>Programming Languages</strong></li><br/ >
+	    <ol>
+             <li>Structured Programming(C language)</li>
+             <li>Object Oriented Programming(Java language)</li>
+             <li>Parallel and concurrent Programming</li>
+            </ol><br/>
+       </ul>
+       
+	   <ul>
+         <li><strong>Database knowledge</strong></li><br/ >
+	    <ol>
+             <li>SQL</li>
+             <li>MYSQL</li>
+            </ol><br/>
+       </ul>
+
+       <ul>
+         <li><strong>Web-Development Languages</strong></li><br/ >
+	    <ol>
+             <li>HTML</li>
+			 <p>Creation of Web applications and
+              Websites using Javascript, SQL
+              Apache, HTML.</p>
+             <li>CSS</li>
+            </ol><br/>
+       </ul>
+
+       <ul>
+         <li><strong>Hardware Languages</strong></li><br/ >
+	    <ol>
+             <li>Digital Design(Verilog,Logic Gates)</li>
+             <li>Assembly </li>
+            </ol><br/>
+       </ul>
+
+	<ul>
+	   <li><strong>Software for Numerical Computations</strong> </li><br/ >
+	    <ol>
+             <li>Matlab( high-level language and interactive environment for numerical computation, visualization and programming )</li>
+	    </ol><br/>
+	</ul>
+	
+	  <hr/>
+
+   <h2><center><u>Conferences Attendance</u></center></h2><br/ >
+     <ul>
+      <li>7th Electrical & Computer Engineering Student Conference Ecescon 7 entitled <q>The Engineers of the Modern Days.</q>/11,12,13 April 2014/Aristotle 
+	  University of Thessaloniki</li><br/ >
+      <!--<img src="conference_thessaloniki_2014.png"><br/ ><br/ >-->
+	  (<a href="http://www.sfhmmy.gr/" target="_blank">www.sfhmmy.gr</a>)
+     </ul>
+	 
+	 <ul>
+	   <ol>
+         <li><em>Day 1<sup>th</sup></em>:<br/> Meliopoulos Athanasios, Opening, Energy Keynote Speaker, Q&A<br/ >	Metakides George, Computer Science
+	     Keynote Speaker, Q&A <br/></li><br/ >
+	 <li><em>Day 2<sup>th</sup></em>:<br/> Tsoukalas Lefteris, Energy Keynote Speaker, Q&A<br/></li>	<br/>
+         <li><em>Day 3<sup>th</sup></em>: <br/>Zahra Moussavi, Bioengineering Keynote Speaker, Q&A<br/> Innovation Session,
+		Spin-off/Startup Companies Presentation	</li>
+	   </ol>
+	 </ul>
+      <hr/>
+	  
+    <h2><center><u>Languages</u></center></h2><br/ >
+       <ul>
+		 <li>Greek: Mother tongue</li><br/ >
+         <li>English: Certificate of Advanced Edexel("Excellent")</li><br/ >
+         <li>German: Zentrale Mittelstufenprufung(ZMP),Goethe Institut("Excellent")</li><br/ >
+       </ul>
+      <hr/>
+    <h2><center><u>Additional Information</u></center></h2><br/ >
+        <ul>
+         <li><strong>Special Features</strong></li><br/>
+	   <ol>
+             <li>Goal Achievement</li>
+             <li>Imagination</li>
+             <li>Intelligence</li>
+	         <li>Flexibility</li>
+             <li>Self-knowledge</li>
+	   
+           </ol><br/>
+         <li><strong>Hobbies,Interests</strong></li><br/ >
+	   <ol>
+             <li>Internet</li>
+             <li>Programming in HTML and CSS</li>
+             <li>Step-aerobic</li>
+	     <li>Gym</li>
+             
+           </ol><br/>
+       </ul>
+       <hr/>
+	   
+   <h2><center><u>References</u></center></h2><br/ >
+
+   Available upon request to <a href="mailto:parpanag@inf.uth.gr" target="_blank">parpanag@inf.uth.gr</a> <br/ > <br/ > <br/ >
+
+
+
+
+</body>
+
+</html>
